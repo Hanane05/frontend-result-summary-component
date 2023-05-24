@@ -31,7 +31,7 @@ Users should be able to:
 ### Screenshot
 
 ![desktop](/assets/images/desktop-screenshot.png)
-![mobile](/assets/images/mobile-screenshot.png | width=100)
+<img src="/assets/images/mobile-screenshot.png" alt="mobile" width="200"/>
 
 
 ### Links
